@@ -1,0 +1,20 @@
+[
+  {
+    "album_title": "Hybrid Theory",
+    "artist": "Linkin Park",
+    "songs": ["Papercut", "One Step Closer", "In the End", "Crawling", "Points of Authority"],
+    "year_released": 2000
+  },
+  {
+    "album_title": "Back in Black",
+    "artist": "AC/DC",
+    "songs": ["Hells Bells", "Shoot to Thrill", "Back in Black", "You Shook Me All Night Long", "Rock and Roll Ain't Noise Pollution"],
+    "year_released": 1980
+  },
+  {
+    "album_title": "21",
+    "artist": "Adele",
+    "songs": ["Rolling in the Deep", "Someone Like You", "Set Fire to the Rain", "Rumour Has It", "Turning Tables"],
+    "year_released": 2011
+  }
+]
